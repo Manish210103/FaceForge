@@ -1,5 +1,5 @@
 # FaceForge
-# Sketch-to-Face Generation with StyleGAN2
+## Sketch-to-Face Generation with StyleGAN2
 
 This project implements a deep learning pipeline that converts **sketch images** into **realistic face images** using a pretrained **StyleGAN2** generator and a custom **OME Encoder**. The encoder learns to predict latent style modifications from a sketch input to drive face synthesis.
 
